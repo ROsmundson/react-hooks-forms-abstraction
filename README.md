@@ -1,17 +1,5 @@
 # BONUS: React Forms Abstraction
-
-## Learning Goals
-
-- Make our form logic more reusable by creating a dynamic `onChange` event
-  handler
-
-## Code Along
-
-If you want to code along there is starter code in the `src` folder. Make sure
-to run `npm install && npm start` to see the code in the browser.
-
 ## Form State
-
 Let's talk about the `onChange` event we had set up in the initial
 version of our `Form` component. If we look at the original code:
 
